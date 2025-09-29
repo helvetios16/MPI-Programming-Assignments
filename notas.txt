@@ -1,6 +1,0 @@
-✅ 3.1 - Histograma con MPI
-✅ 3.2 - Estimación de π con Monte Carlo
-✅ 3.3 - Suma global en árbol
-✅ 3.4 - Suma global con patrón Butterfly
-✅ 3.5 - Multiplicación matriz-vector (bloque-columna)
-✅ 3.6 - Multiplicación matriz-vector (bloque-submatriz)
